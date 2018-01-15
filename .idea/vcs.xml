@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/railsProjects/chess-project" vcs="Git" />
+    <mapping directory="$USER_HOME$/railsProjects/flixter" vcs="Git" />
+    <mapping directory="$USER_HOME$/railsProjects/nomster" vcs="Git" />
+    <mapping directory="$USER_HOME$/railsProjects/splurty" vcs="Git" />
+  </component>
+</project>

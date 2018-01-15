@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RailsDocker.iml" filepath="$PROJECT_DIR$/.idea/RailsDocker.iml" />
+      <module fileurl="file://$USER_HOME$/railsProjects/chess-project/.idea/chess-project.iml" filepath="$USER_HOME$/railsProjects/chess-project/.idea/chess-project.iml" />
+      <module fileurl="file://$USER_HOME$/railsProjects/flixter/.idea/flixter.iml" filepath="$USER_HOME$/railsProjects/flixter/.idea/flixter.iml" />
+      <module fileurl="file://$USER_HOME$/railsProjects/nomster/.idea/nomster.iml" filepath="$USER_HOME$/railsProjects/nomster/.idea/nomster.iml" />
+      <module fileurl="file://$USER_HOME$/railsProjects/splurty/.idea/splurty.iml" filepath="$USER_HOME$/railsProjects/splurty/.idea/splurty.iml" />
+    </modules>
+  </component>
+</project>

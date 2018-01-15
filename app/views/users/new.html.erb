@@ -1,0 +1,15 @@
+<%= form_for :user, url: {action: "create" } do |form| %>
+  <p>
+    <%= form.label :Name %><br>
+    <%= form.text_field :name %>
+  </p>
+
+  <p>
+    <%= form.label :SkypeID %><br>
+    <%= form.text_area :skypeid %>
+  </p>
+
+  <p>
+    <%= form.submit %>
+  </p>
+<% end %>
